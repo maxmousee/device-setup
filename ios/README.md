@@ -21,6 +21,7 @@ gmail
 
 ### utitilies
 microsoft to do
+swiftkey
 simplenote
 
 ### tools
@@ -50,7 +51,18 @@ dji
 klm
 airbnb
 
+### services
+kindle
+uber
+ubereats
+deliveroo
+thuisbezorgd
+
+### shopping
+picnic
+
 ### finance
 bunq
 banco do brasil
 paypal
+ideal
