@@ -1,4 +1,4 @@
-# Useful tools to install on Mac :) 
+# Useful tools to install on Mac :)
 
 ### dev tools
 
@@ -49,3 +49,4 @@ amphetamine
 keka
 vsd
 quickdraft
+rectangle
