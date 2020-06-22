@@ -11,6 +11,7 @@ intellij
 pycharm
 docker
 go/goland
+disable gatekeeper sudo spctl --master-disable
 
 ### internet
 firefox
