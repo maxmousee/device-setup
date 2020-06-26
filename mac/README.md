@@ -11,6 +11,7 @@ intellij
 pycharm
 docker
 go/goland
+oh-my-zsh
 disable gatekeeper sudo spctl --master-disable
 
 ### internet
